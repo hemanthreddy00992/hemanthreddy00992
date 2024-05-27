@@ -16,7 +16,9 @@ src="https://img.shields.io/github/followers/hemanthreddy00992?logo=github&style
 
 ### Devops Stack
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
           
 
 
